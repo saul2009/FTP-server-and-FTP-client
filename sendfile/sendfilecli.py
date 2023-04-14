@@ -73,7 +73,7 @@ while True:
 		break
 
 
-print "Sent ", numSent, " bytes."
+print ("Sent ", numSent, " bytes.")
 	
 # Close the socket and the file
 connSock.close()
